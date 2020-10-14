@@ -1,4 +1,4 @@
-class Circle {
+class Circle{
   float x;
   float y;
   float xSpeed;
@@ -7,7 +7,7 @@ class Circle {
   color circleColor;
   
 //  circle = new Circle(random(width), random(height), random(-3, 3), random(-3, 3), 50);
-  Circle(float x, float y, float xSpeed, float ySpeed, int radiusCircle, color circleColor) {
+  Circle(200f, float y, float xSpeed, float ySpeed, int radiusCircle, color circleColor) {
     this.x = x;
     this.y = y;
     this.xSpeed = xSpeed;

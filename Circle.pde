@@ -1,4 +1,4 @@
-class Circle{
+class CircleX{
   float x;
   float y;
   float xSpeed;
